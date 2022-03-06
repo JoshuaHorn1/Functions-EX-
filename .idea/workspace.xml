@@ -36,8 +36,8 @@
       <recent name="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex12">
-    <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex12 - movie tickets">
+    <configuration name="ex10 - gst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)\ex10 - gst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex11 - library fines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)\ex11 - library fines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex12 - movie tickets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex12.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)\ex12 - movie tickets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex8 - " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex8 - print word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex8 - .py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)\ex8 - print word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex9 " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex9 - longest word " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex9 .py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)\ex9 - longest word .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex12" />
-        <item itemvalue="Python.ex11" />
-        <item itemvalue="Python.ex10" />
-        <item itemvalue="Python.ex9 " />
-        <item itemvalue="Python.ex8 - " />
+        <item itemvalue="Python.ex12 - movie tickets" />
+        <item itemvalue="Python.ex11 - library fines" />
+        <item itemvalue="Python.ex10 - gst" />
+        <item itemvalue="Python.ex9 - longest word " />
+        <item itemvalue="Python.ex8 - print word" />
       </list>
     </recent_temporary>
   </component>
