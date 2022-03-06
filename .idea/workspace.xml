@@ -36,7 +36,7 @@
       <recent name="C:\Users\Joshu\OneDrive - Middleton Grange School\Computer Science\11DTC Programming\Functions (EX)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex11">
+  <component name="RunManager" selected="Python.ex12">
     <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex7 - print name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Functions (EX)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex7 - print name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex12" />
         <item itemvalue="Python.ex11" />
         <item itemvalue="Python.ex10" />
         <item itemvalue="Python.ex9 " />
         <item itemvalue="Python.ex8 - " />
-        <item itemvalue="Python.ex7 - print name" />
       </list>
     </recent_temporary>
   </component>
